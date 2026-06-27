@@ -2,7 +2,6 @@
 
 Laravel 11 backend that queries Ethereum via Alchemy JSON-RPC. Get ETH + ERC20 balances with 15s Redis cache. Built without ethers.js — just PHP + RPC.
 
-**Day 1-2 of 30-day Web3 backend sprint** for DeFi roles.
 
 ### **Features**
 
