@@ -38,7 +38,7 @@ curl http://localhost:8000/balance/0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045
 ```
 
 
-###How It Works
+### How It Works
 1. JSON-RPC calls
 POST to Alchemy with eth_getBalance and eth_call. No SDK needed.
 
