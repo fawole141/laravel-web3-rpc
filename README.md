@@ -29,8 +29,9 @@ Laravel 11 backend that queries Ethereum via Alchemy JSON-RPC. Get ETH + ERC20 b
 ```bash
 curl http://localhost:8000/balance/0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045
 
-```{
+{
   "wallet": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
   "balance_eth": 6423.4458,
   "cached": true
 } ```
+### **API Demo**
